@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsekuj&theme=synthwave&layout=compact&hide_border=true" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=kevinsekuj&count_private=true&theme=synthwave&show_icons=true&hide=stars,issues&hide_border=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsekuj&theme=synthwave&layout=compact&hide_border=true" />
   </a>
  </p>

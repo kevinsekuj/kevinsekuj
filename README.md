@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinsekuj&count_private=true&theme=cobalt&show_icons=true&hide=stars,issues&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinsekuj&count_private=false&theme=cobalt&show_icons=true&hide=stars,issues&hide_border=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinsekuj&repo=convoychat&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsekuj&theme=cobalt&layout=compact&hide_border=true" />
 </a>

@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="mailto:kevinsekuj@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://linkedin.com/in/kevinsekuj" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinsekuj&count_private=false&theme=cobalt&show_icons=true&hide=stars,issues&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinsekuj&count_private=true&theme=tokyonight&show_icons=true&hide=stars,issues&hide_border=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsekuj&theme=cobalt&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsekuj&theme=tokyonight&layout=compact&hide_border=true" />
 </a>

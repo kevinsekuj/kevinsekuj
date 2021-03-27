@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 
 <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsekuj&theme=nightowl&layout=compact&hide_border=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsekuj&theme=dracula&layout=compact&hide_border=true" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=kevinsekuj&count_private=true&theme=nightowl&show_icons=true&hide=stars,issues&hide_border=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=kevinsekuj&count_private=true&theme=dracula&show_icons=true&hide=stars,issues&hide_border=true" />
   </a>
   </a>
  </p>

@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
+    
+ <a href="https://linkedin.com/in/kevinsekuj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:kevinsekuj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <p>
+<p align="center">      
       
  <!--  <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
